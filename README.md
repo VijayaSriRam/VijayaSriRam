@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VijayaSriRam
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on developing new software
 - 📫 How to reach me vijayasriram8@gmail.com
 
 <!---
